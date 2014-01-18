@@ -1,0 +1,19 @@
+Introduction:
+
+There are many approaches to solving the problem and help can be found on the internet.
+
+Responses will be graded based on the following criteria:
+
+Code readability & organization
+Correct output
+Proper use of language-specific syntax
+Code maintainability
+Goal:
+
+Identify unique, four-letter sequences in a given list of words.
+
+Requirements:
+
+For each word contained in the dictionary file, find every possible four-letter sequence
+Given it is unique (case-sensitive) and contains only alpha characters, write the sequence to a sequences file, followed by a line break
+For each sequence written, write the original word to a words file, followed by a line break
