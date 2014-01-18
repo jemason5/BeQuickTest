@@ -7,3 +7,5 @@ The program will ask for the dictionary file name as input and will create the c
 in the the working directory.
 
 Simply run the letterSequencer.pl from the commandline.
+
+Sample dictionary file is provided.
